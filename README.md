@@ -9,6 +9,6 @@ When I see the comment, as soon as possible I will assign the issue to you. Ther
 
 Comments can be used to ask questions, or discuss the issue.
 
-When you complete your research on an issue, write your results in a comment. When I see that, I will write another comment, or close the issue, or both.
+When you complete your research on an issue, write your results in a comment. There is no need to use the "((" notation, just provide some comments with links. When I see your comment, I will write another comment, or close the issue, or both.
 
 Note: For privacy reasons, please use "jfa.org" to refer our website—not the longer name.
