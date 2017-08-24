@@ -1,4 +1,4 @@
-## Research Tasks (Issues)#
+### Research Tasks (Issues)#
 Research Tasks are under the issues tab above. 
 
 You can scan the list of issues and look for a blank assignment column to know which issues have not been claimed. Click on an issue to see the details for that issue.
