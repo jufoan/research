@@ -7,4 +7,6 @@ To claim an issue, just write a comment like "I'll take it," after you see that 
 
 When I see the comment, as soon as possible I will assign the issue to you. There is no need to wait until I do that to start your research.
 
+Comments can be used to ask questions, or discuss the issue.
+
 When you complete your research on an issue, write your results in a comment. When I see that, I will write another comment, or close the issue, or both.
