@@ -1,7 +1,7 @@
 ### Research Tasks (Issues)
 Research Tasks are under the issues tab above. 
 
-You can scan the list of issues and look for a blank assignment column to know which issues have not been claimed. Click on an issue to see the details for that issue.
+You can scan the list of issues and look for the tag "help wanted" or a blank assignment column to know which issues have not been claimed. Click on an issue to see the details for that issue.
 
 To claim an issue, just write a comment like "I'll take it," after you see that no one else has written such a comment. When you write a comment, you will be subscribed to emails showing any activity on the issue.
 
