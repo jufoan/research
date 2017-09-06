@@ -16,7 +16,7 @@ Comments can be used to ask questions, or discuss the issue.
 
 Note: For privacy reasons, please use "jfa.org" to refer our website—not the longer name.
 
-### General Guidelines for Research
+### Quality of Sources
 
 * Seek to use the highest quality sources available.
 
