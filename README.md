@@ -25,6 +25,8 @@ Note: For privacy reasons, please use "jfa.org" to refer our website—not the l
 
   * UC Santa Cruz provides some questions to ask when evaluating sources.[3]“Evaluate the Quality and Credibility of Your Sources | University Library.” Accessed May 16, 2017. http://library.ucsc.edu/help/research/evaluate-the-quality-and-credibility-of-your-sources
 * Do not misrepresent a source.
+* You may need more than one source for a statement with more than one clause.
+  * For example: "Jane Doe was was not active in any social causes in the first decades of her life (1), but later devoted her life to helping other sentient beings(2).
 * Primary sources are preferred for factual data.
   * Example: “Calves are removed from their mothers within 24 hours of birth.”
   * The above statement is not presented as an interpretation, nor as an informed opinion gleaned from a variety of sources, but as a statement of fact.
